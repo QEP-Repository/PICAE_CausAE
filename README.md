@@ -36,9 +36,8 @@ If you use either PIC-AE or CausAE in scientific research, please cite:
 
 > R. Rossi et al.  
 > *On the Use of Autoencoders to Study the Dynamics and the Causality Relations of Complex Systems with Applications to Nuclear Fusion*  
-> Submitted to **Computer Physics Communications**, 2025.
-
-(We will update with DOI / BibTeX once available.)
+> **Computer Physics Communications**, 320, 2026. ISSN 0010-4655
+> https://doi.org/10.1016/j.cpc.2025.109984.
 
 ---
 
